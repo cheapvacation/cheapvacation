@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cheapvacation
-- 👀 I’m interested in a better world with technology
-- 🌱 I’m currently learning how to be a better human
-- 💞️ I’m looking to collaborate with innovative and passionate builders
+👋 Hi, I’m @cheapvacation
+👀 I’m interested in a better world with technology
+🌱 I’m currently learning how to be a better human
+💞️ I’m looking to collaborate with innovative and passionate builders
 
 <!---
 cheapvacation/cheapvacation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
