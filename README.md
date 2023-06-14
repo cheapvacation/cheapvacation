@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheapvacation
 - 👀 I’m interested in a better world with technology
-- 🌱 I’m currently learning how to be a better human
+- 🌱 I’m always growing to be a better human
 - 💞️ I’m looking to collaborate with innovative and passionate builders
 
 <!---
